@@ -1,0 +1,5 @@
+4
+ivan|daniel
+daniel|ivan
+pogi|ako
+baban|pogi
